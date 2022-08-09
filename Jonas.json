@@ -1,6 +1,8 @@
 {
     "bio" :
-    {"Name" : "Jonas Lund",
-"Favorite color" : "Orange",
-"Favorite food": "cake" }
+    {
+        "Name" : "Jonas Lund",
+        "Favorite color" : "Orange",
+        "Favorite food": "cake" 
+    }
 }
